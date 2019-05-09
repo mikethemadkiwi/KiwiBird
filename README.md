@@ -1,5 +1,5 @@
 # KiwiBird
-Now Your Flightless Birds can Fly!
+Now Your Flightless Birds can Fly! A FiveM GtaV Mod.
   
 # Loading the mod.
 1. add the folder to your resources folder.  
